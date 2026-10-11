@@ -1,0 +1,5 @@
+Cybersecurity Learning Portfolio
+Student: Aliyu Mukhtar
+Operating System: Linux Mint
+Version Control: Git
+Goal: Develop practical cybersecurity skills
