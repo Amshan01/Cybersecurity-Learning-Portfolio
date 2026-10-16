@@ -5,3 +5,4 @@ Version Control: Git
 Goal: Develop practical cybersecurity skills
 Current Focus: Linux, Networking, and Cybersecurity
 Hey how do you see the journey
+Practice Focus: Repeatation, Definite purpose 
